@@ -11,6 +11,17 @@ The provided Python script demonstrates the utilization of multi-threading to pe
 
 ## Result Table :
 The following table summarizes the time taken for matrix multiplication with different numbers of threads:
+| Threads | Time Taken (s) |
+| ------- | -------------- |
+| 1       | 2.649752       |
+| 2       | 1.954535       |
+| 3       | 1.911700       |
+| 4       | 1.877531       |
+| 5       | 1.961004       |
+| 6       | 2.054289       |
+| 7       | 1.917517       |
+| 8       | 1.876025       |
+
 
 
 ## Result Graph :
