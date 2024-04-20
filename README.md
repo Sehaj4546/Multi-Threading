@@ -27,6 +27,8 @@ The following table summarizes the time taken for matrix multiplication with dif
 ## Result Graph :
 The graph below illustrates the relationship between the number of threads and the time taken for matrix multiplication:
 
+![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/0f73147c06b9a29e2416bb15c3841b0d1cd368fe/graph.png)
+
 
 ## Observations :
 #### 1. As the number of threads increases, the time taken for matrix multiplication initially decreases due to parallel execution but may plateau or even increase after a certain point due to overhead from thread management.
