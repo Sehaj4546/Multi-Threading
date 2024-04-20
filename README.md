@@ -1,4 +1,6 @@
-# Multi-Threading
+# Multi-Threading 
+## By : Sehajbir Singh Bains (Roll No : 102103290)
+     
 
 ## Methodology :
 The provided Python script demonstrates the utilization of multi-threading to perform matrix multiplication in Python. Here's a breakdown of the methodology:
@@ -33,7 +35,7 @@ The graph below illustrates the relationship between the number of threads and t
 Plots showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
 
 ![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/144682ce14785e842d050577ea8caca1fefe00c0/cpu1.png)
-![notfound]()
+![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/3ef5f6a319339046795f9b904d94e4200f1f1918/cpu2.png)
 
 
 ## Observations :
