@@ -29,7 +29,13 @@ The graph below illustrates the relationship between the number of threads and t
 
 ![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/0f73147c06b9a29e2416bb15c3841b0d1cd368fe/graph.png)
 
-CPU Cores Utilization: A line plot showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
+## CPU Cores Utilization: 
+Plots showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
+
+![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/144682ce14785e842d050577ea8caca1fefe00c0/cpu1.png)
+![notfound]()
+
+
 ## Observations :
 #### 1. As the number of threads increases, the time taken for matrix multiplication initially decreases due to parallel execution but may plateau or even increase after a certain point due to overhead from thread management.
 #### 2. The optimal number of threads depends on various factors such as the size of the matrices, the number of available CPU cores, and the efficiency of thread management.
